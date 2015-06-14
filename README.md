@@ -11,5 +11,4 @@ http://www.rubular.com/r/GFuD6pyRix
 
 から作成するとわかりやすい．
 
-#実行結果
-ruby 
+
