@@ -8,7 +8,8 @@ require 'pdf/reader'
 str = Array.new()
 count = 0
 page = 0
-File.open("/Users/ichikawayuya/Desktop/guraduate.pdf", "rb") do |io|
+#ファイルの指定
+File.open("/Users/user/Desktop/test.pdf", "rb") do |io|
   # インスタンス化
   reader = PDF::Reader.new(io)
 	#ページの枚数だけ配列を用意
