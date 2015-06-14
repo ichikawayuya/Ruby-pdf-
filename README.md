@@ -4,3 +4,12 @@ Rubyでpdfファイルを読み取り，正規表現を用いて扱いやすい�
 $sudo gem install pdf/reader
 
 をする必要がある．
+
+正規表現に関しては
+
+http://www.rubular.com/r/GFuD6pyRix
+
+から作成するとわかりやすい．
+
+#実行結果
+ruby 
